@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 
-function Navbar() {
+export const Navbar = () => {
   const [click, setClick] = useState(false);
 
   const handleClick = () => setClick(!click);
@@ -54,6 +54,4 @@ function Navbar() {
       </nav>
     </>
   );
-}
-
-export default Navbar;
+};
