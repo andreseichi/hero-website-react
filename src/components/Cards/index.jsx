@@ -5,7 +5,7 @@ import { CardItem } from '../CardItem';
 export const Cards = () => {
   return (
     <div className="cards">
-      <h2>Check out these EPIC Destinations</h2>
+      <h2>All Agents to pick and loose</h2>
       <div className="cards__container">
         <div className="cards__wrapper">
           <ul className="cards__items">
