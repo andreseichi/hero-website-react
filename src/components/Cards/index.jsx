@@ -23,7 +23,7 @@ export const Cards = () => {
             />
             <CardItem
               src="images/breach.png"
-              text="Breach to flash your allies and then use his ult to stun for your enemies"
+              text="Breach to flash your allies and then use his ult to help your enemies"
               label="Breach"
               path="/services"
             />
