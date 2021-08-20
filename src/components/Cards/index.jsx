@@ -11,7 +11,7 @@ export const Cards = () => {
           <ul className="cards__items">
             <CardItem
               src="images/jett.png"
-              text="Jett kawaii with your kunais and nice voice"
+              text="Jett kawaii with your kunais, a nice voice and broken superdashes"
               label="Jett"
               path="/services"
             />
