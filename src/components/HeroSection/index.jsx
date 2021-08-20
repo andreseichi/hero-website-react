@@ -17,7 +17,7 @@ export const HeroSection = () => {
         poster={posterVideo}
       />
 
-      <h1>GO VAVA</h1>
+      <h1>GO VAVA?</h1>
       <p>Let's play valorant?</p>
 
       <div className="hero-btns">
@@ -34,7 +34,7 @@ export const HeroSection = () => {
           buttonStyle="btn--primary"
           buttonSize="btn--large"
         >
-          WATCH TRAILER <i far fa-play-circle />
+          WATCH TRAILER <i className="far fa-play-circle" />
         </Button>
       </div>
     </div>
