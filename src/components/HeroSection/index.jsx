@@ -18,7 +18,8 @@ export const HeroSection = () => {
       />
 
       <h1>GO VAVA?</h1>
-      <p>Let's play valorant?</p>
+      <p>Let's play valorant together</p>
+      <p>And then lose. And then get a heart attack.</p>
 
       <div className="hero-btns">
         <Button
