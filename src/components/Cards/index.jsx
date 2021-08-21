@@ -64,7 +64,7 @@ export const Cards = () => {
           <ul className="cards__items">
             <CardItem
               src="images/viper.png"
-              text="Viper can toxic all your allies with her molly. Her ult allows her to fart really a powerfull toxic poison, but it's not usefull at all."
+              text="Viper can toxic all your allies with her molly. Her ult allows her to fart a really powerfull toxic poison, but it's not usefull at all."
               label="Viper"
               path="/viper"
             />
