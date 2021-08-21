@@ -70,7 +70,7 @@ export const Cards = () => {
             />
             <CardItem
               src="images/cypher.png"
-              text="Cypher can use his abilies to lurk, but he can't troll his friends very easy, so don't use Cypher."
+              text="Cypher can use his abilities to lurk, but he can't troll his friends very easy, so don't use Cypher."
               label="Cypher"
               path="/cypher"
             />
