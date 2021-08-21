@@ -69,7 +69,11 @@ export const Navbar = () => {
             </li>
           </ul>
 
-          {button && <Button buttonStyle="btn--outline">Sign Up</Button>}
+          {button && (
+            <Link to="/sign-up" className="btn-mobile">
+              <Button buttonStyle="btn--outline">Sign Up</Button>
+            </Link>
+          )}
         </div>
       </nav>
     </>

@@ -22,21 +22,33 @@ export const HeroSection = () => {
       <p>And then lose. And then get a heart attack.</p>
 
       <div className="hero-btns">
-        <Button
-          className="btns"
-          buttonStyle="btn--outline"
-          buttonSize="btn--large"
+        <a
+          href="https://playvalorant.com/pt-br/download/"
+          target="_blank"
+          rel="noreferrer"
         >
-          GET STARTED
-        </Button>
+          <Button
+            className="btns"
+            buttonStyle="btn--outline"
+            buttonSize="btn--large"
+          >
+            GET STARTED
+          </Button>
+        </a>
 
-        <Button
-          className="btns"
-          buttonStyle="btn--primary"
-          buttonSize="btn--large"
+        <a
+          href="https://www.youtube.com/watch?v=7ESIgCWnyBg&ab_channel=DanielMartins"
+          target="_blank"
+          rel="noreferrer"
         >
-          WATCH TRAILER <i className="far fa-play-circle" />
-        </Button>
+          <Button
+            className="btns"
+            buttonStyle="btn--primary"
+            buttonSize="btn--large"
+          >
+            WATCH TRAILER <i className="far fa-play-circle" />
+          </Button>
+        </a>
       </div>
     </div>
   );
