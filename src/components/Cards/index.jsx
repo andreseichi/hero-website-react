@@ -38,7 +38,7 @@ export const Cards = () => {
           <ul className="cards__items">
             <CardItem
               src="images/brimstone.png"
-              text="Brimstone has a boost to pistols and can use his ult to troll your friends."
+              text="Brimstone has a boost to pistols and can molly your friends. His ult is really powerfull to kill his allies."
               label="Brimstone"
               path="/brimstone"
             />
